@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="ClothesSupermarket:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ClothesSupermarket_jar</output-path>
+    <root id="root">
+      <element id="archive" name="ClothesSupermarket.jar">
+        <element id="module-output" name="ClothesSupermarket" />
+      </element>
+      <element id="library" level="project" name="xpp3_min-1.1.4c" />
+      <element id="library" level="project" name="xstream-1.4.11.1" />
+      <element id="library" level="project" name="junit:junit:4.12" />
+    </root>
+  </artifact>
+</component>

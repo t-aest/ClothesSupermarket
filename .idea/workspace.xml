@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ClothesSupermarket:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="dd89659f-213c-4160-bcfa-4d84bef72d43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/twd/service/ClothesService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/twd/service/impl/ClothesServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/twd/ui/HomeClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/twd/utils/ConsoleTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/twd/utils/ProductsXmlUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ClothesSupermarket_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/twd/test/ProductsXmlUtilsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClothesSupermarket/com/twd/bean/Clothes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClothesSupermarket/com/twd/bean/Clothes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/twd/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/twd/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/twd/bean/Clothes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/twd/bean/Clothes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/twd/res/r.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/twd/res/r.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/twd/res/r_temp.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/twd/res/r_temp.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/twd/ui/WelcomeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/twd/ui/WelcomeClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClothesSupermarket/com/twd/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClothesSupermarket/com/twd/MainClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClothesSupermarket/com/twd/res/r.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClothesSupermarket/com/twd/res/r.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClothesSupermarket/com/twd/res/r_temp.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClothesSupermarket/com/twd/res/r_temp.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClothesSupermarket/com/twd/ui/WelcomeClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClothesSupermarket/com/twd/ui/WelcomeClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/twd/utils/ConsoleTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/twd/utils/ConsoleTable.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,8 +65,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/twd/MainClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+            <state relative-caret-position="142">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#244#245#0" expanded="true" />
@@ -122,8 +124,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/twd/utils/ConsoleTable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="730">
-              <caret line="68" column="29" selection-start-line="68" selection-start-column="29" selection-end-line="72" />
+            <state relative-caret-position="-1186">
+              <caret line="52" column="103" selection-start-line="52" selection-start-column="103" selection-end-line="52" selection-end-column="103" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#208#214#0" expanded="true" />
@@ -135,8 +137,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/twd/test/ProductsXmlUtilsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="18" column="48" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="48" />
+            <state relative-caret-position="194">
+              <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -184,15 +186,15 @@
         <option value="$PROJECT_DIR$/src/com/twd/service/ClothesService.java" />
         <option value="$PROJECT_DIR$/src/com/twd/service/impl/ClothesServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/com/twd/MainClass.java" />
-        <option value="$PROJECT_DIR$/src/com/twd/utils/ConsoleTable.java" />
         <option value="$PROJECT_DIR$/src/com/twd/res/r_temp.properties" />
         <option value="$PROJECT_DIR$/src/com/twd/ui/HomeClass.java" />
+        <option value="$PROJECT_DIR$/src/com/twd/utils/ConsoleTable.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="548" />
-    <option name="y" value="97" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-50" />
+    <option name="y" value="235" />
     <option name="width" value="1760" />
     <option name="height" value="1003" />
   </component>
@@ -285,7 +287,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="E:/Program Files/Git/bin/git.exe" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -362,7 +364,14 @@
       <option name="project" value="LOCAL" />
       <updated>1555934017561</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="homeClass list show">
+      <created>1555937748986</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1555937748986</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -383,9 +392,10 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="426" y="21" width="1408" height="802" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19259259" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17426273" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -395,7 +405,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49851853" visible="true" weight="0.3402985" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49851853" visible="true" weight="0.32294616" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -416,7 +426,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add products.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="add products.xml" />
+    <MESSAGE value="homeClass list show" />
+    <option name="LAST_COMMIT_MESSAGE" value="homeClass list show" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/twd/utils/OrderStatusType.java">
@@ -586,27 +597,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/twd/test/ProductsXmlUtilsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="18" column="48" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/twd/utils/ConsoleTable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="730">
-          <caret line="68" column="29" selection-start-line="68" selection-start-column="29" selection-end-line="72" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#208#214#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/twd/service/impl/ClothesServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -644,10 +634,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/twd/test/ProductsXmlUtilsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/twd/utils/ConsoleTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1186">
+          <caret line="52" column="103" selection-start-line="52" selection-start-column="103" selection-end-line="52" selection-end-column="103" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#208#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/twd/MainClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        <state relative-caret-position="142">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#244#245#0" expanded="true" />
@@ -662,10 +673,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>ClothesSupermarket:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
