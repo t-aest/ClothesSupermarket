@@ -11,7 +11,6 @@ import com.twd.utils.UserIo;
  */
 public class MainClass {
     public static void main(String[] args) {
-
         new WelcomeClass().start();
     }
 }
