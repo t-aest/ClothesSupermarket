@@ -3,6 +3,7 @@ package com.twd.service.impl;
 import com.twd.bean.Clothes;
 import com.twd.service.ClothesService;
 import com.twd.utils.BusinessException;
+import com.twd.utils.ClothesIo;
 import com.twd.utils.ProductsXmlUtils;
 
 import java.util.List;
@@ -13,10 +14,20 @@ import java.util.List;
  * @Created by Administrator
  */
 public class ClothesServiceImpl implements ClothesService {
+    private ClothesIo clothesIo = new ClothesIo();
     @Override
     public List<Clothes> list() throws BusinessException {
 
-        List<Clothes> clothes = ProductsXmlUtils.parserProductFormXml();
-        return clothes;
+        return clothesIo.list();
+    }
+
+    @Override
+    public Clothes findById(String cid) throws BusinessException {
+
+        return clothesIo.findById(cid);
+    }
+    @Override
+    public void update()throws BusinessException{
+        clothesIo.update();
     }
 }
