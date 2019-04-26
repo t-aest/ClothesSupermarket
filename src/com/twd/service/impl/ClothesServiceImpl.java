@@ -4,7 +4,6 @@ import com.twd.bean.Clothes;
 import com.twd.service.ClothesService;
 import com.twd.utils.BusinessException;
 import com.twd.utils.ClothesIo;
-import com.twd.utils.ProductsXmlUtils;
 
 import java.util.List;
 

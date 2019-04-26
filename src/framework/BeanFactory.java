@@ -49,10 +49,14 @@ public class BeanFactory {
         while (iterator.hasNext()){
             Element bean = iterator.next();
             String sid = bean.attributeValue("id");
+            System.out.println(sid);
+            System.out.println(id);
             if(sid.equals(id)){
                 String className = bean.attributeValue("class");
+                System.out.println(className);
                 try {
                     return Class.forName(className).newInstance();
+
                 } catch (IllegalAccessException | InstantiationException | ClassNotFoundException e) {
                     e.printStackTrace();
                 }

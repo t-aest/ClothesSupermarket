@@ -5,6 +5,7 @@ import com.twd.bean.Order;
 import com.twd.bean.OrderItem;
 import com.twd.service.ClothesService;
 import com.twd.service.OrderService;
+import com.twd.service.impl.ClothesServiceImpl;
 import com.twd.utils.BusinessException;
 import com.twd.utils.ConsoleTable;
 import com.twd.utils.DateUtils;
@@ -174,6 +175,7 @@ public class HomeClass extends BaseClass {
     }
 
     private void showProducts() {
+        System.out.println("sss");
         List<Clothes> list = clothesService.list();
         ConsoleTable t = new ConsoleTable(8, true);
         t.appendRow();
