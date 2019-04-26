@@ -7,24 +7,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd89659f-213c-4160-bcfa-4d84bef72d43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ClothesSupermarket_jar/order.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ClothesSupermarket/bean.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ClothesSupermarket/framework/BeanFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ClothesSupermarket_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/ClothesSupermarket_jar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order.obj" beforeDir="false" afterPath="$PROJECT_DIR$/order.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ClothesSupermarket_jar/ClothesSupermarket.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ClothesSupermarket_jar/ClothesSupermarket.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClothesSupermarket/com/twd/service/impl/ClothesServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClothesSupermarket/com/twd/service/impl/ClothesServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClothesSupermarket/com/twd/ui/BaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClothesSupermarket/com/twd/ui/BaseClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClothesSupermarket/com/twd/ui/HomeClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClothesSupermarket/com/twd/ui/HomeClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClothesSupermarket/com/twd/ui/LoginClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClothesSupermarket/com/twd/ui/LoginClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClothesSupermarket/com/twd/ui/RegisterClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClothesSupermarket/com/twd/ui/RegisterClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClothesSupermarket/com/twd/ui/WelcomeClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClothesSupermarket/com/twd/ui/WelcomeClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products.xml" beforeDir="false" afterPath="$PROJECT_DIR$/products.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/bean.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/twd/service/impl/ClothesServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/twd/service/impl/ClothesServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/twd/ui/HomeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/twd/ui/HomeClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/framework/BeanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/framework/BeanFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user.obj" beforeDir="false" afterPath="$PROJECT_DIR$/user.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClothesSupermarket.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ClothesSupermarket.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ClothesSupermarket_jar/ClothesSupermarket.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ClothesSupermarket_jar/order.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ClothesSupermarket_jar/products.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ClothesSupermarket_jar/user.obj" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -78,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/src/framework/BeanFactory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="366">
-              <caret line="53" column="31" lean-forward="true" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
+              <caret line="53" column="31" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/twd/ui/HomeClass.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="160">
-              <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+              <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -227,6 +216,11 @@
             <path>
               <item name="ClothesSupermarket" type="b2602c69:ProjectViewProjectNode" />
               <item name="ClothesSupermarket" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClothesSupermarket" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClothesSupermarket" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -276,8 +270,8 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/dom4j-1.6.1.jar!/" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
@@ -403,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1556285363850</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="final sys 2">
+      <created>1556289951781</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1556289951781</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -464,7 +465,8 @@
     <MESSAGE value="update product buy 2" />
     <MESSAGE value="update product buy 3" />
     <MESSAGE value="final sys" />
-    <option name="LAST_COMMIT_MESSAGE" value="final sys" />
+    <MESSAGE value="final sys 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="final sys 2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/twd/utils/OrderStatusType.java">
@@ -756,7 +758,7 @@
     <entry file="file://$PROJECT_DIR$/src/framework/BeanFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="366">
-          <caret line="53" column="31" lean-forward="true" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
+          <caret line="53" column="31" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -766,7 +768,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/twd/ui/HomeClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
-          <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -846,7 +848,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>junit:junit:4.12</last-edited>
+          <last-edited>xstream-1.4.11.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

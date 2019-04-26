@@ -11,5 +11,14 @@
     <orderEntry type="library" name="xpp3_min-1.1.4c" level="project" />
     <orderEntry type="library" name="xstream-1.4.11.1" level="project" />
     <orderEntry type="library" name="dom4j-1.6.1" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/dom4j-1.6.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
