@@ -112,7 +112,7 @@ public class HomeClass extends BaseClass {
         order.setCreateDate(DateUtils.toDate(new Date()));
         order.setUserId(currUser.getId());
         order.setSum(sum);
-        order.setOrderId(clothesService.list().size() + 1);
+        order.setOrderId(orderService.list().size() + 1);
         orderService.buyProduct(order);
         clothesService.update();
         showProducts();
