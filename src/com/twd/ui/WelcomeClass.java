@@ -47,6 +47,7 @@ public class WelcomeClass extends BaseClass{
 
         }
         HomeClass homeClass = new HomeClass();
+        println(getString("info.exit"));
         homeClass.show();
     }
 }

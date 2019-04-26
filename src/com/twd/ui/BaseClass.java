@@ -1,6 +1,7 @@
 package com.twd.ui;
 
 import com.twd.bean.User;
+import framework.BeanFactory;
 
 import java.util.ResourceBundle;
 import java.util.Scanner;
@@ -13,6 +14,7 @@ import java.util.Scanner;
 public abstract class BaseClass {
     protected  static Scanner input = new Scanner(System.in);
     protected static User currUser;//当前用户对象
+    protected BeanFactory beanFactory = null;
     private static ResourceBundle r = ResourceBundle.getBundle("com.twd.res.r");
     public static String getString(String key){
         return r.getString(key);
@@ -25,6 +27,7 @@ public abstract class BaseClass {
         System.out.print(s);
     }
 
-
-
+    public BaseClass(){
+        beanFactory = BeanFactory.init();
+    }
 }
